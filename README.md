@@ -1,4 +1,7 @@
 # Responsive Product Card With Popup
+
+> **Created by Antono**
+
 ## [Watch it on youtube](https://youtu.be/pMxZc8SarIw)
 ### Responsive Product Card With Popup
 
