@@ -1,2 +1,26 @@
-Last updated: 2026-10-23 03:16:04 WIB
-Last updated: 2026-10-23 03:32:11 WIB
+# responsive-product-card-with-popup
+
+
+
+## 📋 Overview
+
+This repository contains **23 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-23 04:56:18 WIB*
